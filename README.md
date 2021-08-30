@@ -17,3 +17,5 @@
 > E-mail: mrmagic223325@gmail.com
 > GNU jami (will be added)
 </code></pre>
+
+[![mrmagic223325BRRRT's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmagic223325BRRRT&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
