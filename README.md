@@ -18,6 +18,6 @@
 > GNU jami (will be added)
 </code></pre>
 
-[![mrmagic223325BRRRT's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmagic223325BRRRT&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![mrmagic223325BRRRT's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmagic223325BRRRT&theme=dracula)]()
 <br>
-[![mrmagic223325BRRRT's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrmagic223325BRRRT)](https://github.com/anuraghazra/github-readme-stats)
+[![mrmagic223325BRRRT's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrmagic223325BRRRT)]()
