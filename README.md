@@ -1,12 +1,24 @@
 # Hi
 [![stare](https://media.discordapp.net/attachments/850628332579717150/880742720358985738/813823160625528873.png)](https://youtu.be/dQw4w9WgXcQ)
 <br>
-<h1>Contact?</h1>
+<h1>Who Am I</h1>
+> 14 year old <br>
+> German <br>
+> Linux enthusiast <br>
+> Cat lover
+
+<br>
+
+<h1>Stuff I Do</h1>
+
+> [![Skai Bot](https://img.shields.io/static/v1?label=Project&message=Skai%20Bot&color=blue)](https://github.com/mrmagic223325BRRRT/Skai-Bot)<br>
+> yeah thats it
+<h1>Contact</h1>
 
 > ![Discord](https://img.shields.io/static/v1?label=Discord&message=Fedora%20Girl%230556&color=blue&labelColor=gray)<br>
 > [![E-mail](https://img.shields.io/badge/Email-mrmagic223325%40fedora.email-blue)](mailto:mrmagic223325@fedora.email)<br>
 > ![Revolt](https://img.shields.io/static/v1?label=Revolt&message=mr_magic223325&color=blue)<br>
-> GNU jami: [when i finally remember to add it]
+> GNU jami: (when i finally remember to add it)
 <br>
 <br>
 
