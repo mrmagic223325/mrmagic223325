@@ -12,13 +12,12 @@
 <h1>Stuff I Do</h1>
 
 > [![Skai Bot](https://img.shields.io/static/v1?label=Project&message=Skai%20Bot&color=blue)](https://github.com/mrmagic223325BRRRT/Skai-Bot)<br>
-> yeah thats it
+> ![MainBot](https://img.shields.io/static/v1?label=Project&message=MainBot&color=blue)<br>
+> ![MainBot](https://img.shields.io/static/v1?label=Project&message=Domain%20Polls&color=blue)<br>
 <h1>Contact</h1>
 
 > ![Discord](https://img.shields.io/static/v1?label=Discord&message=Fedora%20Girl%230556&color=blue&labelColor=gray)<br>
 > [![E-mail](https://img.shields.io/badge/Email-mrmagic223325%40fedora.email-blue)](mailto:mrmagic223325@fedora.email?&subject=Hi)<br>
-> ![Revolt](https://img.shields.io/static/v1?label=Revolt&message=mr_magic223325&color=blue)<br>
-> GNU jami: (when i finally remember to add it)
 <br>
 <br>
 
