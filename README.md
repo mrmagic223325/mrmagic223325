@@ -11,7 +11,7 @@
 <h1>Contact</h1>
 
 > [![GitLab](https://img.shields.io/static/v1?label=Gitlab&message=mr_magic223325&color=blue&labelColor=gray)](https://gitlab.com/mr_magic223325)<br>
-> ![Discord](https://img.shields.io/static/v1?label=Discord&message=Fedora%20Girl%230556&color=blue&labelColor=gray)<br>
+> ![Discord](https://img.shields.io/static/v1?label=Discord&message=fedora%230556&color=blue&labelColor=gray)<br>
 > [![E-mail](https://img.shields.io/badge/Email-mrmagic223325%40fedora.email-blue)](mailto:mrmagic223325@fedora.email?&subject=Hi)<br>
 <br>
 <br>
