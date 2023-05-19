@@ -2,7 +2,7 @@
 [![stare](https://media.discordapp.net/attachments/850628332579717150/880742720358985738/813823160625528873.png)](https://youtu.be/dQw4w9WgXcQ)
 <br>
 <h1>Who Am I</h1>
-> 15 years old <br>
+> 16 years old <br>
 > German <br>
 > Linux enthusiast <br>
 > Cat lover
