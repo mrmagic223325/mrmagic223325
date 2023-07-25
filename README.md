@@ -16,4 +16,4 @@
 <br>
 <br>
 
-[![mrmagic223325BRRRT's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrmagic223325BRRRT&hide_title=true&hide_border=true&bg_color=00000000&text_color=777&range=last_7_days)](https://github.com/mrmagic223325/)
+[![mrmagic223325BRRRT's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrmagic22332)](https://github.com/mrmagic223325/)
